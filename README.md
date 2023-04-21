@@ -27,8 +27,7 @@ O Lapras System é um sistema que tem como objetivo combater incêndios em flore
 `npm install`
 
 3. Inicie o servidor:
-`npm start`
-`npm start`
+`npm run dev`
 
 4. Acesse o site em 
 `http://localhost:3000`
