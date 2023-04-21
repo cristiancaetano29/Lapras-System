@@ -16,7 +16,7 @@ O Lapras System é um sistema que tem como objetivo combater incêndios em flore
 
 - [Cristian Caetano](https://github.com/cristiancaetano29)
 - [Diogo Ramos](https://github.com/diogoramosr)
-- [Gabriel Ferreira](https://github.com/gabrielfxz)
+- [Gabriel](https://github.com/gabrielfxz)
 
 ## Instalação
 
