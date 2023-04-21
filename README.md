@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lapras System
 
-## Getting Started
+O Lapras System é um sistema que tem como objetivo combater incêndios em florestas. Ele utiliza hardwares como sensores de temperatura para detectar o calor e enviar os dados em tempo real para um site, permitindo que os usuários visualizem informações precisas sobre os incêndios e coordenem as ações necessárias para combatê-los.
 
-First, run the development server:
+## Tecnologias utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- JavaScript
+- React
+- HTML
+- CSS
+- MongoDB
+- TailwindCSS
+- Next.js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Colaboradores
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [Cristian Caetano](https://github.com/cristiancaetano29)
+- [Diogo Ramos](https://github.com/diogoramosr)
+- [Gabriel Ferreira](https://github.com/gabrielfxz)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Instalação
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1. Clone o repositório: `git clone https://github.com/seu-usuario/lapras-system.git`
 
-## Learn More
+2. Instale as dependências: 
+`cd lapras-system`
+`npm install`
 
-To learn more about Next.js, take a look at the following resources:
+3. Inicie o servidor:
+`npm start`
+`npm start`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Acesse o site em 
+`http://localhost:3000`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Funcionalidades
 
-## Deploy on Vercel
+- Monitoramento em tempo real de incêndios em florestas
+- Visualização de informações precisas sobre a temperatura
+- Coordenação das ações necessárias para combater os incêndios
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contribuições
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Se você quiser contribuir para o projeto, siga as etapas abaixo:
 
-DATABASE_URL="mongodb+srv://root:cdglapras@cluster0.rwlmjj5.mongodb.net/?retryWrites=true&w=majority"
+1. Faça um fork do projeto
+2. Crie uma nova branch com a sua feature: `git checkout -b my-feature`
+3. Faça o commit das suas alterações: `git commit -m 'feat: My new feature'`
+4. Envie as suas alterações: `git push origin my-feature`
+
+## Licença
+
+Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo [LICENSE](LICENSE).
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, entre em contato conosco:
+
+- [Cristian Caetano](https://github.com/cristiancaetano29)
+- [Diogo Ramos](https://github.com/diogoramosr)
+- [Gabriel](https://github.com/gabrielfxz)
